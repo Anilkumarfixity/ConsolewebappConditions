@@ -1,0 +1,8 @@
+C:\Users\B Anil Kumar\source\repos\ConsoleApp2coditions\ConsoleApp2coditions\bin\Debug\ConsoleApp2coditions.exe.config
+C:\Users\B Anil Kumar\source\repos\ConsoleApp2coditions\ConsoleApp2coditions\bin\Debug\ConsoleApp2coditions.exe
+C:\Users\B Anil Kumar\source\repos\ConsoleApp2coditions\ConsoleApp2coditions\bin\Debug\ConsoleApp2coditions.pdb
+C:\Users\B Anil Kumar\source\repos\ConsoleApp2coditions\ConsoleApp2coditions\obj\Debug\ConsoleApp2coditions.csproj.AssemblyReference.cache
+C:\Users\B Anil Kumar\source\repos\ConsoleApp2coditions\ConsoleApp2coditions\obj\Debug\ConsoleApp2coditions.csproj.SuggestedBindingRedirects.cache
+C:\Users\B Anil Kumar\source\repos\ConsoleApp2coditions\ConsoleApp2coditions\obj\Debug\ConsoleApp2coditions.csproj.CoreCompileInputs.cache
+C:\Users\B Anil Kumar\source\repos\ConsoleApp2coditions\ConsoleApp2coditions\obj\Debug\ConsoleApp2coditions.exe
+C:\Users\B Anil Kumar\source\repos\ConsoleApp2coditions\ConsoleApp2coditions\obj\Debug\ConsoleApp2coditions.pdb
